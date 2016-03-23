@@ -1,0 +1,12 @@
+[submodule "SparkCore-NeoPixel"]
+	path = SparkCore-NeoPixel
+	url = https://github.com/technobly/SparkCore-NeoPixel.git
+[submodule "Webduino"]
+	path = Webduino
+	url = https://github.com/m-mcgowan/Webduino.git
+[submodule "spark-core-mdns"]
+	path = spark-core-mdns
+	url = https://github.com/mrhornsby/spark-core-mdns.git
+[submodule "elapsedMillis"]
+	path = elapsedMillis
+	url = https://github.com/pkourany/elapsedMillis.git
